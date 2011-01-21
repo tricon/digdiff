@@ -1,0 +1,7 @@
+A simple way to get a Growl notification when a given domain's DNS @ record changes to the desired IP.
+
+Usage: domain ip
+
+Example: elemental-imaging.com 65.99.210.35
+
+In this example, A Growl notification will be sent when the @ record for the domain, elemental-imaging.com, matches the IP, 65.99.210.35.
